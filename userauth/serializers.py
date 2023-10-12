@@ -5,7 +5,7 @@ from .models import CustomUser
 class UserRegisterSerializer(ModelSerializer):
     class Meta:
         model = CustomUser  
-        fields = ['id', 'email', 'password', 'is_expert']
+        fields = ['id', 'email', 'password',  'phone_number', 'is_expert']
 
     def create(self, validated_data):
         validated_data['password'] = make_password(validated_data['password'])
