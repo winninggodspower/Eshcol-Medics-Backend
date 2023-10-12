@@ -1,0 +1,23 @@
+MEDICAL_DEPARTMENT = [
+    ("Cardiology", 'Cardiology'),
+    ("Dermatology", 'Dermatology'),
+    ("Endocrinology", 'Endocrinology'),
+    ("Gastroenterology", 'Gastroenterology'),
+    ("Hematology", 'Hematology'),
+    ("Infectious Disease", 'Disease'),
+    ("Internal Medicine", 'Medicine'),
+    ("Nephrology", 'Nephrology'),
+    ("Neurology", 'Neurology'),
+    ("Obstetrics and Gynecology", 'Obstetrics and Gynecology'),
+    ("Oncology", 'Oncology'),
+    ("Ophthalmology", 'Ophthalmology'),
+    ("Orthopedics", 'Orthopedics'),
+    ("Pediatrics", 'Pediatrics'),
+    ("Physical Medicine and Rehabilitation", 'Physical Medicine and Rehabilitation'),
+    ("Psychiatry", 'Psychiatry'),
+    ("Pulmonology", 'Pulmonology'),
+    ("Radiology", 'Radiology'),
+    ("Rheumatology", 'Rheumatology'),
+    ("Surgery", 'Surgery'),
+    ("Urology", 'Urology')
+]
